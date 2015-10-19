@@ -16,7 +16,7 @@
         "psr-0": {"Nonlux\\Composer": "src/"}
     },
     "extra": {
-        "class": "Nonlux\\Composer\\InstallerPlugin"
+        "class": "Nonlux\\Composer\\InstallPlugin"
     },
     "require": {}
 }
