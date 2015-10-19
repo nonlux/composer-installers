@@ -13,7 +13,9 @@
     ],
     "minimum-stability": "dev",
     "autoload": {
-        "psr-0": {"Nonlux\\Composer": "src/"}
+        "psr-4": {
+            "": "src/"
+        }
     },
     "extra": {
         "class": "Nonlux\\Composer\\InstallPlugin"
