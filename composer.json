@@ -1,0 +1,22 @@
+{
+    "name": "nonlux/composer-installers",
+    "type": "composer-plugin",
+    "require-dev": {
+        "composer-plugin-api": "1.0.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "nonlux",
+            "email": "nonluxi@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {"Nonlux\\Composer": "src/"}
+    },
+    "extra": {
+        "class": "Nonlux\\Composer\\InstallerPlugin"
+    },
+    "require": {}
+}
