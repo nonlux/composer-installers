@@ -2,7 +2,7 @@
     "name": "nonlux/composer-installers",
     "type": "composer-plugin",
     "require-dev": {
-        "composer-plugin-api": "1.0.0"
+        "composer/composer":"*"
     },
     "license": "MIT",
     "authors": [

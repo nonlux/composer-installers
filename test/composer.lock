@@ -1,0 +1,47 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "7f2005f7f2f3985127568f74fee33d42",
+    "content-hash": "81d38a585635d104f24d930c292c0fae",
+    "packages": [],
+    "packages-dev": [
+        {
+            "name": "nonlux/bitrix-module-main",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/nonlux/bitrix-modume-main.git",
+                "reference": "ca6f08b8927fef75b0b356b47173d2b761360425"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/nonlux/bitrix-modume-main/zipball/ca6f08b8927fef75b0b356b47173d2b761360425",
+                "reference": "ca6f08b8927fef75b0b356b47173d2b761360425",
+                "shasum": ""
+            },
+            "type": "bitrix-module",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "proprietary"
+            ],
+            "authors": [
+                {
+                    "name": "nonlux",
+                    "email": "nonluxi@gmail.com"
+                }
+            ],
+            "description": "Nonofficial bitrix repository for module main",
+            "time": "2015-10-19 15:14:03"
+        }
+    ],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
