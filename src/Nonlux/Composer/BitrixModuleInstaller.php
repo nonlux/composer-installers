@@ -14,7 +14,7 @@ class BitrixModuleInstaller extends LibraryInstaller
     public function getInstallPath(PackageInterface $package)
     {
         $name=preg_replace('/.+\/bitrix-module-/','',$package->getPrettyName());
-        var_dump($name);
+
         return "web/bitrix/modules/$name";
     }
 
