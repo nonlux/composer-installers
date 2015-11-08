@@ -22,6 +22,5 @@
     },
     "extra": {
         "class": "Nonlux\\Composer\\InstallPlugin"
-    },
-    "require": {}
+    }
 }
